@@ -1,39 +1,37 @@
-# Secure Selective Disclosure – Research Artifacts
+# Secure Selective Disclosure of Data for Digital Twinning Services
 
 ## Overview
 
-This repository provides information about the research artifacts associated with our study on a secure selective disclosure framework for IoT environments.
+This repository provides information about the experimental artifacts associated with the research article:
 
-The experimental evaluation examines the scalability, latency, throughput, and reliability of the proposed framework.
+**Secure Selective Disclosure of Data for Digital Twinning Services**
+
+*Arabian Journal for Science and Engineering (2026)*
+
+DOI: https://doi.org/10.1007/s13369-026-11676-2
+
+## Experimental Evaluation
+
+The experiments evaluate the scalability and performance of the proposed secure selective disclosure framework for IoT-based digital twinning services.
+
+The evaluation includes:
+
+- Device-to-Provider (D2P) data ingestion workloads.
+- Provider-to-Consumer (P2C) query workloads.
+- Average, p95, and p99 response latency.
+- Throughput under increasing concurrent workloads.
+- Failed requests and system saturation behavior.
 
 ## Research Artifacts
 
-The research artifacts include:
-
-- **Provider Emulation:** Scripts for emulating the provider server and its communication endpoints.
-- **Device-to-Provider (D2P):** Locust workloads simulating IoT device data ingestion.
-- **Provider-to-Consumer (P2C):** Locust workloads simulating consumer queries.
-- **Performance Analysis:** Scripts for processing experimental results and evaluating system performance.
+The experimental artifacts include provider emulation scripts, Locust workloads, performance analysis scripts, and supporting experimental data.
 
 ## Data and Source Code Availability
 
 The data and source code supporting the findings of this study are available from the corresponding author upon reasonable request.
 
-The research artifacts are maintained in a private repository and are not publicly accessible.
-
 ## Request Access
 
-Researchers interested in accessing the experimental data or source code may submit a request to the corresponding author.
+Researchers interested in obtaining the experimental artifacts may contact the corresponding author.
 
-
-Please provide the following information:
-
-1. Full name and institutional affiliation.
-2. Purpose of the request.
-3. GitHub username (if requesting repository access).
-
-Requests will be reviewed individually, and access may be granted upon approval.
-
-## Access Policy
-
-Access to the research artifacts is provided for legitimate academic and research purposes, subject to approval by the corresponding author.
+Please include your name, institutional affiliation, and purpose of the request.
